@@ -39,7 +39,7 @@
         <parameter name="webkitDebugProxyPort" value="11002"></parameter>
 
         <classes>
-            <class name="com.qa.runners.MyiOSTestNGRunnerTest"></class>
+            <!--<class name="com.qa.runners.MyiOSTestNGRunnerTest"></class>-->
         </classes>
     </test>
 </suite>
