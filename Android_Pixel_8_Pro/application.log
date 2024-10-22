@@ -1,104 +1,22 @@
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.850 com.qa.utils.ServerManager:31 - Appium server started on port: 39802
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.854 com.qa.utils.ServerManager:44 - Appium server started
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.858 com.qa.utils.DriverManager:26 - Initializing appium driver
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.871 com.qa.utils.PropertyManager:18 - Loading config properties
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.872 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:39802
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:11.872 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:16.143 com.qa.utils.DriverManager:31 - Driver is initialized
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:17.785 com.qa.pages.BasePage:61 - login with: invalidUsername
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:19.375 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:20.405 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:21.140 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:21.810 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:22.755 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:24.316 com.qa.pages.BasePage:61 - password is : invalidPassword
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:25.363 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:25.563 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:26.254 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:27.236 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:28.815 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:29.859 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:30.964 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:34:31.618 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:28.322 com.qa.utils.ServerManager:23 - Starting appium server
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:30.633 com.qa.utils.ServerManager:31 - Appium server started on port: 13221
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:30.634 com.qa.utils.ServerManager:44 - Appium server started
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:30.634 com.qa.utils.DriverManager:26 - Initializing appium driver
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:30.635 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:13221
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:30.635 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:34.462 com.qa.utils.DriverManager:31 - Driver is initialized
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:36.044 com.qa.pages.BasePage:61 - login with: invalidUsername
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:37.621 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:38.668 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:39.523 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:40.231 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:41.193 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:42.773 com.qa.pages.BasePage:61 - password is : invalidPassword
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:43.816 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:43.960 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:44.618 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:45.587 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:47.143 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:48.172 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:49.300 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:47:49.996 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:09.768 com.qa.utils.DriverManager:31 - Driver is initialized
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:11.381 com.qa.pages.BasePage:61 - login with: invalidUsername
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:12.978 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:14.025 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:14.771 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:15.420 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:16.376 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:17.940 com.qa.pages.BasePage:61 - password is : invalidPassword
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:18.989 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:19.128 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:19.812 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:20.779 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:21.836 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:22.877 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:23.992 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:51:24.658 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:12.815 com.qa.utils.ServerManager:23 - Starting appium server
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:15.431 com.qa.utils.ServerManager:31 - Appium server started on port: 48200
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:15.432 com.qa.utils.ServerManager:44 - Appium server started
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:15.432 com.qa.utils.DriverManager:26 - Initializing appium driver
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:15.433 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:48200
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:15.433 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:19.240 com.qa.utils.DriverManager:31 - Driver is initialized
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:20.882 com.qa.pages.BasePage:61 - login with: invalidUsername
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:22.460 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:23.496 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:24.381 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:25.095 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:26.104 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:27.662 com.qa.pages.BasePage:61 - password is : invalidPassword
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:28.707 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:28.852 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:29.514 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:30.479 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:32.041 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:33.092 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:34.206 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:53:34.885 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:40.601 com.qa.utils.ServerManager:23 - Starting appium server
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:43.225 com.qa.utils.ServerManager:31 - Appium server started on port: 27124
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:43.225 com.qa.utils.ServerManager:44 - Appium server started
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:43.226 com.qa.utils.DriverManager:26 - Initializing appium driver
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:43.228 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:27124
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:43.228 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:46.925 com.qa.utils.DriverManager:31 - Driver is initialized
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:48.564 com.qa.pages.BasePage:61 - login with: invalidUsername
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:50.111 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:51.181 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:51.913 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:52.603 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:53.571 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:55.165 com.qa.pages.BasePage:61 - password is : invalidPassword
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:56.208 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:56.362 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:57.024 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:57.972 com.qa.pages.BasePage:61 - login with: standard_user
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:54:59.533 com.qa.pages.BasePage:61 - password is : secret_sauce
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:55:00.558 com.qa.pages.BasePage:45 - Press login button
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:55:01.675 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[Android_Pixel_8_Pro INFO ] 2024-10-18 14:55:02.357 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.637 com.qa.utils.ServerManager:31 - Appium server started on port: 19587
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.641 com.qa.utils.ServerManager:44 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.642 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.650 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.652 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:19587
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:46.652 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:53.168 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:54.734 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:56.313 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:57.341 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:58.056 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:58.739 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid user name.mp4
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:35:59.690 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:01.388 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:02.434 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:02.559 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:03.211 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with invalid password.mp4
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:04.179 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:05.722 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:06.760 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:07.849 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-22 18:36:08.518 com.qa.utils.VideoManager:32 - Video path: Android_Pixel_8_Pro/Videos/Login with valid user name and password.mp4
