@@ -1,0 +1,125 @@
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:02:11.109 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:02:11.132 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:02:11.133 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:02:11.133 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone 15 Pro Max FATAL] 2024-10-17 14:02:34.629 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.ios.IOSDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10001, platformName: IOS}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10001, platformName: IOS}
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:47.588 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:47.606 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:47.607 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:47.607 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:52.454 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:03:58.699 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:04:00.835 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:04:01.562 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:04:02.342 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:04:02.535 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:06:27.084 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:06:27.108 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:06:27.109 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:06:27.109 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone 15 Pro Max FATAL] 2024-10-17 14:06:50.594 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.ios.IOSDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:08:51.983 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:08:53.961 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:08:53.961 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:08:53.961 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone 15 Pro Max FATAL] 2024-10-17 14:08:53.974 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.ios.IOSDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}
+[iOS_iPhone 15 Pro Max FATAL] 2024-10-17 14:15:54.829 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.ios.IOSDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:automationName: XCUITest, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:deviceName: iPhone 15 Pro Max, appium:newCommandTimeout: 120, appium:udid: C52F3CE4-F047-4E6F-9811-DCD..., appium:wdaLocalPort: 10002, platformName: IOS}
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:21.277 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:21.279 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:21.280 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:4723
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:21.280 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:26.965 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:33.063 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:35.153 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:35.961 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:36.737 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:36.955 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:43.190 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:45.161 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:45.964 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:46.718 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:46.936 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:53.179 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:55.200 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:55.894 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:57.253 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:23:57.527 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:53.716 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:53.738 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:53.739 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:53.739 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:4723
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:53.739 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:27:58.762 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:28:04.905 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:28:07.014 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:28:07.727 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:28:08.504 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 14:28:08.744 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:48.227 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:50.538 com.qa.utils.ServerManager:31 - Appium server started on port: 31557
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:50.538 com.qa.utils.ServerManager:44 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:50.538 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:50.539 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:31557
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:50.539 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:21:55.827 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:01.973 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:04.076 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:04.794 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:05.591 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:05.799 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:12.060 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:14.033 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:14.842 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:15.597 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:15.812 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:22.048 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:24.009 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:24.702 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:26.058 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:22:26.281 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:38.204 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:40.504 com.qa.utils.ServerManager:31 - Appium server started on port: 1897
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:40.504 com.qa.utils.ServerManager:44 - Appium server started
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:40.504 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:40.505 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:1897
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:40.506 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:46.514 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:52.672 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:54.789 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:55.501 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:56.294 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:23:56.494 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:02.742 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:04.723 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:05.536 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:06.309 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:06.637 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:12.892 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:14.979 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:15.683 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:17.051 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-17 15:24:17.328 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with valid user name and password.mp4

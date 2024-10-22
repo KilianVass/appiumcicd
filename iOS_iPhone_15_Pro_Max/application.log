@@ -1,0 +1,132 @@
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:08.616 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:13.199 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:13.201 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:13.207 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:13.208 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:43.505 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:50.032 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:52.171 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:52.880 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:53.658 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:14:53.824 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:00.070 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:02.136 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:02.932 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:03.687 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:03.995 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:10.226 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:12.192 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:12.899 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:14.246 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:15:14.527 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:17.607 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:22.862 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:22.869 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:22.877 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:22.881 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:27.352 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:33.803 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:35.911 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:36.633 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:37.446 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:37.676 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:43.932 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:45.909 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:46.718 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:47.495 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:47.792 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:54.034 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:56.003 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:56.713 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:58.158 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:23:58.423 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:14.640 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:19.544 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:19.550 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:19.557 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:19.562 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:32:24.716 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:21.085 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:23.077 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:23.083 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:23.091 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:23.096 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:42.844 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:49.257 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:51.346 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:52.050 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:52.842 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:53.117 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:35:59.470 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:01.443 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:02.358 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:03.229 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:03.497 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:09.720 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:11.701 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:12.404 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:13.762 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:36:14.031 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:16.145 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:19.111 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:19.116 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:19.124 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:19.126 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:24.172 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:30.496 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:32.577 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:33.289 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:34.076 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:34.305 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:40.555 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:42.650 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:43.573 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:44.353 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:44.670 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:50.935 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:52.912 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:53.625 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:54.981 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:38:55.266 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:08.898 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:13.509 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:13.514 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:13.522 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:13.527 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:18.108 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:24.402 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:26.496 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:27.217 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:28.016 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:28.306 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:34.546 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:36.529 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:37.343 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:38.110 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:38.440 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:44.676 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:46.658 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:47.363 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:48.726 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:41:49.065 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:09.498 com.qa.utils.ServerManager:23 - Starting appium server
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:14.078 com.qa.utils.ServerManager:41 - Appium server started
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:14.080 com.qa.utils.DriverManager:26 - Initializing appium driver
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:14.087 com.qa.utils.PropertyManager:18 - Loading config properties
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:14.088 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:19.366 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:25.761 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:27.881 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:28.604 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:29.401 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:29.634 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:35.868 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:37.847 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:38.649 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:39.517 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:39.730 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with invalid password.mp4
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:45.964 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:47.933 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:48.642 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:49.982 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone_15_Pro_Max INFO ] 2024-10-17 12:44:50.225 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone_15_Pro_Max/Videos/Login with valid user name and password.mp4

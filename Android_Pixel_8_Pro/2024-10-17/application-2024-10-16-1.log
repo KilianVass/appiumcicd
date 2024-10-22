@@ -1,0 +1,544 @@
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:48.406 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:48.467 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:48.472 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:48.483 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:48.491 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 15:07:49.059 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.072 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.073 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.079 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.079 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.080 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 15:07:49.211 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.219 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.219 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.226 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.226 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.226 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 15:07:49.351 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.363 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.363 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.371 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.372 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.372 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 15:07:49.491 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.502 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.502 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.510 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.511 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 15:07:49.511 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 15:07:49.632 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.287 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.316 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.318 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.324 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.325 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:09:55.625 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.635 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.635 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.643 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.643 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.643 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:09:55.768 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.774 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.774 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.781 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.781 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.782 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:09:55.902 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.908 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.908 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.915 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.915 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:55.915 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:09:56.033 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:56.038 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:56.038 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:56.045 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:56.046 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:09:56.046 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:09:56.158 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.398 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.429 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.431 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.437 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.438 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:15:58.719 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.731 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.731 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.737 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.738 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.738 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:15:58.854 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.859 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.860 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.866 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.866 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.866 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:15:58.978 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.984 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.985 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.991 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.991 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:58.991 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:15:59.103 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:59.108 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:59.108 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:59.114 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:59.115 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:15:59.115 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro FATAL] 2024-10-16 17:15:59.230 com.qa.utils.CapabilitiesManager:78 - Failed to load server!! ABORTorg.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: The application at '/Users/kilian.lopez/IdeaProject/AppiumCucumberFramework/src/test/resources//app/SauceLabsApp.apk' does not exist or is not accessible 
+Host info: host: 'vass-09611.local', ip: 'fe80:0:0:0:8e9:eab0:e2f6:7daa%en0'
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: /Users/kilian.lopez/IdeaPro..., appium:appActivity: com.swaglabsmobileapp.Splas..., appium:appPackage: com.swaglabsmobileapp, appium:automationName: UiAutomator2, appium:avd: Pixel_8_Pro, appium:avdLaunchTimeout: 180000, appium:chromedriverPort: 11000, appium:newCommandTimeout: 120, appium:systemPort: 10000, appium:udid: emulator-5554, platformName: ANDROID}
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:30.443 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:30.471 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:30.473 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:30.479 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:30.482 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:35.561 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:37.176 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:38.791 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:39.841 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.587 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.746 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.747 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.762 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.762 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:40.762 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:43.875 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:45.529 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:47.130 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:48.190 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:48.957 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:49.090 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:49.090 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:49.107 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:49.108 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:49.108 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:52.167 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:53.795 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:55.398 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:56.460 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.592 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.718 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.718 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.732 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.733 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:19:57.734 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:00.810 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:02.427 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:04.010 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:05.058 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.167 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.305 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.306 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.322 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.323 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:06.323 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:09.394 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:11.026 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:12.611 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:13.664 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:15.765 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:15.833 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 17:20:15.889 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:38.418 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:38.450 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:38.452 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:38.458 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:38.459 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:41.794 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:43.451 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:45.071 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:46.127 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:46.896 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:47.041 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:47.042 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:47.055 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:47.056 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:47.056 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:50.112 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:51.751 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:53.355 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:54.396 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.148 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.279 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.280 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.296 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.297 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:55.297 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:58.357 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:22:59.995 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:02.111 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:03.164 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.420 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.553 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.554 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.572 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.573 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:04.574 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:07.624 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:09.227 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:10.819 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:11.879 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:12.992 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:13.124 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:13.125 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:13.143 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:13.144 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:13.145 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:16.218 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:17.845 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:19.438 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:19.996 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:22.101 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:22.153 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:23:22.205 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:08.542 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:08.573 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:08.574 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:08.580 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:08.581 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:13.503 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:15.118 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:16.908 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:18.098 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:18.956 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:19.107 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:19.108 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:19.117 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:19.117 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:19.118 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:22.192 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:23.815 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:25.601 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:26.777 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.641 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.760 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.761 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.774 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.774 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:27.774 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:30.823 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:32.489 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:34.263 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:35.434 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.655 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.782 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.783 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.794 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.794 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:36.794 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:39.854 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:41.646 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:43.510 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:44.685 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.857 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.979 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.980 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.993 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.993 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:45.993 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:49.022 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:50.681 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:52.461 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:53.626 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:55.821 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:55.888 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:42:55.940 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:29.335 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:29.365 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:29.367 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:29.372 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:29.373 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:34.673 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:36.929 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:38.699 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:39.887 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.756 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.901 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.902 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.915 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.916 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:40.916 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:43.988 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:45.635 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:47.415 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:48.590 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.444 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.579 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.579 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.591 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.592 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:49.592 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:52.649 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:54.273 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:56.032 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:57.198 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.389 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.507 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.508 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.523 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.523 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:45:58.524 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:01.557 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:03.220 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:04.977 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:06.138 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.335 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.482 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.483 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.495 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.495 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:07.495 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:10.565 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:12.416 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:14.287 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:15.458 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:17.654 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:17.714 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 18:46:17.763 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:30.699 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:30.729 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:30.731 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:30.737 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:30.739 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:37.520 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:39.870 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:41.659 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:42.862 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.695 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.819 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.820 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.833 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.833 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:43.833 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:46.883 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:48.549 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:50.333 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:51.495 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.348 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.467 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.467 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.481 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.482 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:52.482 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:55.501 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:57.127 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:58.887 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:35:59.568 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.800 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.929 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.930 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.947 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.948 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:00.948 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:03.980 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:05.707 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:07.142 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:08.319 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.527 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.660 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.660 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.672 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.673 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:09.673 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:12.715 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:14.430 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:16.293 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:17.423 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:19.644 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:19.696 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:36:19.750 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:39:55.506 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:39:55.534 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:39:55.537 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:39:55.542 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:39:55.543 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:02.450 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:04.761 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:06.544 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:07.238 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.089 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.230 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.231 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.243 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.244 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:08.244 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:11.307 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:12.947 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:14.735 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:15.928 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.749 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.877 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.878 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.892 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.892 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:16.892 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:19.934 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:21.563 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:23.335 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:24.503 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.734 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.865 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.866 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.886 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.886 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:25.886 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:28.941 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:30.751 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:32.609 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:33.787 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.407 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.560 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.560 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.572 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.573 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:35.573 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:38.616 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:40.338 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:42.215 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:43.339 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:45.496 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:45.557 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:40:45.610 com.qa.pages.BasePage:104 - price slb is - $29.99
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:46.459 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:46.489 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:46.491 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:46.497 com.qa.utils.PropertyManager:18 - Loading config properties
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:46.498 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:51.245 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:53.484 com.qa.pages.BasePage:61 - login with: invalidUsername
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:55.285 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:56.450 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.289 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.432 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.433 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.447 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.447 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:43:57.448 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:00.519 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:02.190 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:03.926 com.qa.pages.BasePage:61 - password is : invalidPassword
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:05.108 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:05.951 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:06.083 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:06.084 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:06.097 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:06.097 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:06.097 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:09.141 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:10.767 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:12.552 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:13.710 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.404 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.531 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.533 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.546 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.547 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:15.547 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:18.623 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:20.477 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:22.329 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:23.496 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.696 com.qa.pages.BasePage:104 - title slb is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.834 com.qa.utils.GlobalParams:64 - platform is :Android
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.835 com.qa.utils.ServerManager:19 - Starting appium server
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.849 com.qa.utils.ServerManager:28 - Appium server started
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.849 com.qa.utils.DriverManager:26 - Initializing appium driver
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:24.850 com.qa.utils.CapabilitiesManager:25 - Getting capabilities
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:27.912 com.qa.utils.DriverManager:31 - Driver is initialized
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:29.746 com.qa.pages.BasePage:61 - login with: standard_user
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:31.617 com.qa.pages.BasePage:61 - password is : secret_sauce
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:32.781 com.qa.pages.BasePage:45 - Press login button
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:35.019 com.qa.pages.BasePage:104 - price is - Sauce Labs Backpack
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:35.082 com.qa.pages.BasePage:104 - Slb txt is - carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_Pixel_8_Pro INFO ] 2024-10-16 19:44:35.134 com.qa.pages.BasePage:104 - price slb is - $29.99

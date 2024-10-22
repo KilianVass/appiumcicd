@@ -1,0 +1,73 @@
+http://0.0.0.0:4723
+http://0.0.0.0:4723
+[38;5;112m[Appium][0m Welcome to Appium v2.11.3 (REV 42c11a4dedf352229271593de831161071603c66)
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { sessionOverride: [33mtrue[39m }
+[38;5;112m[Appium][0m The autodetected Appium home path: /Users/kilian.lopez/.appium
+[38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+[38;5;112m[Appium][0m Attempting to load driver xcuitest...
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-xcuitest-driver/build/index.js
+[38;5;112m[Appium][0m AndroidUiautomator2Driver has been successfully loaded in 0.966s
+[38;5;112m[Appium][0m XCUITestDriver has been successfully loaded in 0.966s
+[38;5;86m[HTTP][0m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+[38;5;112m[Appium][0m Could not configure Appium server. It's possible that a driver or plugin tried to update the server and failed. Original error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+[38;5;112m[Appium][0m Error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+    at Server.setupListenHandle [as _listen2] (node:net:1902:16)
+    at listenInCluster (node:net:1959:12)
+    at doListen (node:net:2133:7)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21)
+http://0.0.0.0:4723
+[38;5;112m[Appium][0m Welcome to Appium v2.11.3 (REV 42c11a4dedf352229271593de831161071603c66)
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { sessionOverride: [33mtrue[39m }
+[38;5;112m[Appium][0m The autodetected Appium home path: /Users/kilian.lopez/.appium
+[38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+[38;5;112m[Appium][0m Attempting to load driver xcuitest...
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-xcuitest-driver/build/index.js
+[38;5;112m[Appium][0m AndroidUiautomator2Driver has been successfully loaded in 0.966s
+[38;5;112m[Appium][0m XCUITestDriver has been successfully loaded in 0.966s
+[38;5;86m[HTTP][0m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+[38;5;112m[Appium][0m Could not configure Appium server. It's possible that a driver or plugin tried to update the server and failed. Original error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+[38;5;112m[Appium][0m Error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+    at Server.setupListenHandle [as _listen2] (node:net:1902:16)
+    at listenInCluster (node:net:1959:12)
+    at doListen (node:net:2133:7)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21)
+http://0.0.0.0:4723
+[38;5;112m[Appium][0m Welcome to Appium v2.11.3 (REV 42c11a4dedf352229271593de831161071603c66)
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { sessionOverride: [33mtrue[39m }
+[38;5;112m[Appium][0m The autodetected Appium home path: /Users/kilian.lopez/.appium
+[38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+[38;5;112m[Appium][0m Attempting to load driver xcuitest...
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-xcuitest-driver/build/index.js
+[38;5;112m[Appium][0m AndroidUiautomator2Driver has been successfully loaded in 0.966s
+[38;5;112m[Appium][0m XCUITestDriver has been successfully loaded in 0.966s
+[38;5;86m[HTTP][0m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+[38;5;112m[Appium][0m Could not configure Appium server. It's possible that a driver or plugin tried to update the server and failed. Original error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+[38;5;112m[Appium][0m Error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+    at Server.setupListenHandle [as _listen2] (node:net:1902:16)
+    at listenInCluster (node:net:1959:12)
+    at doListen (node:net:2133:7)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21)
+http://0.0.0.0:4723
+[38;5;112m[Appium][0m Welcome to Appium v2.11.3 (REV 42c11a4dedf352229271593de831161071603c66)
+[38;5;112m[Appium][0m Non-default server args:
+[38;5;112m[Appium][0m { sessionOverride: [33mtrue[39m }
+[38;5;112m[Appium][0m The autodetected Appium home path: /Users/kilian.lopez/.appium
+[38;5;112m[Appium][0m Attempting to load driver uiautomator2...
+[38;5;112m[Appium][0m Attempting to load driver xcuitest...
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+[38;5;112m[Appium][0m Requiring driver at /Users/kilian.lopez/.appium/node_modules/appium-xcuitest-driver/build/index.js
+[38;5;112m[Appium][0m AndroidUiautomator2Driver has been successfully loaded in 0.966s
+[38;5;112m[Appium][0m XCUITestDriver has been successfully loaded in 0.966s
+[38;5;86m[HTTP][0m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+[38;5;112m[Appium][0m Could not configure Appium server. It's possible that a driver or plugin tried to update the server and failed. Original error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+[38;5;112m[Appium][0m Error: listen EADDRINUSE: address already in use 0.0.0.0:4723
+    at Server.setupListenHandle [as _listen2] (node:net:1902:16)
+    at listenInCluster (node:net:1959:12)
+    at doListen (node:net:2133:7)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21)
