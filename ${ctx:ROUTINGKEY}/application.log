@@ -1,0 +1,2 @@
+[${ctx:ROUTINGKEY} INFO ] 2024-10-23 10:10:49.883 com.qa.utils.GlobalParams:72 - platform is :Android
+[${ctx:ROUTINGKEY} INFO ] 2024-10-23 10:12:26.181 com.qa.utils.GlobalParams:72 - platform is :Android

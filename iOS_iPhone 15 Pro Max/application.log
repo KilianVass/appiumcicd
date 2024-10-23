@@ -1,22 +1,16 @@
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:45.776 com.qa.utils.ServerManager:23 - Starting appium server
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:47.759 com.qa.utils.ServerManager:31 - Appium server started on port: 44024
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:47.759 com.qa.utils.ServerManager:44 - Appium server started
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:47.759 com.qa.utils.DriverManager:26 - Initializing appium driver
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:47.759 com.qa.utils.CapabilitiesManager:23 - http://0.0.0.0:44024
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:47.760 com.qa.utils.CapabilitiesManager:26 - Getting capabilities
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:35:53.637 com.qa.utils.DriverManager:31 - Driver is initialized
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:00.023 com.qa.pages.BasePage:61 - login with: invalidUsername
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:02.183 com.qa.pages.BasePage:61 - password is : secret_sauce
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:02.890 com.qa.pages.BasePage:45 - Press login button
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:03.671 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:03.837 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:10.128 com.qa.pages.BasePage:61 - login with: standard_user
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:12.121 com.qa.pages.BasePage:61 - password is : invalidPassword
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:12.943 com.qa.pages.BasePage:45 - Press login button
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:13.717 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:13.959 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid password.mp4
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:20.221 com.qa.pages.BasePage:61 - login with: standard_user
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:22.226 com.qa.pages.BasePage:61 - password is : secret_sauce
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:22.936 com.qa.pages.BasePage:45 - Press login button
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:24.313 com.qa.pages.BasePage:104 - title is - PRODUCTS
-[iOS_iPhone 15 Pro Max INFO ] 2024-10-22 18:36:24.649 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with valid user name and password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:23.567 com.qa.utils.DriverManager:31 - Driver is initialized
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:29.974 com.qa.pages.BasePage:61 - login with: invalidUsername
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:31.740 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:32.484 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:33.301 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:33.516 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid user name.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:39.449 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:41.101 com.qa.pages.BasePage:61 - password is : invalidPassword
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:41.921 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:42.711 com.qa.pages.BasePage:104 - error text is - Username and password do not match any user in this service.
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:43.040 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with invalid password.mp4
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:49.145 com.qa.pages.BasePage:61 - login with: standard_user
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:50.799 com.qa.pages.BasePage:61 - password is : secret_sauce
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:51.513 com.qa.pages.BasePage:45 - Press login button
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:52.887 com.qa.pages.BasePage:104 - title is - PRODUCTS
+[iOS_iPhone 15 Pro Max INFO ] 2024-10-23 10:13:53.121 com.qa.utils.VideoManager:32 - Video path: iOS_iPhone 15 Pro Max/Videos/Login with valid user name and password.mp4
