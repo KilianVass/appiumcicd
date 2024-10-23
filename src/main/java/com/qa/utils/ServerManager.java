@@ -55,14 +55,15 @@ public class ServerManager {
     public AppiumDriverLocalService getAppiumService(){
         GlobalParams params = new GlobalParams();
         HashMap<String, String> environment = new HashMap<String, String>();
-        environment.put("PATH", "\"${MAVEN_HOME}/bin:${ANDROID_HOME}/platform-tools:${ANDROID_HOME}/cmdline-tools:${JAVA_HOME}/bin:/opt/homebrew/Cellar/node/22.7.0/bin:$PATH\"" + System.getenv("PATH"));
+        //environment.put("PATH", "\"${MAVEN_HOME}/bin:${ANDROID_HOME}/platform-tools:${ANDROID_HOME}/cmdline-tools:${JAVA_HOME}/bin:/opt/homebrew/Cellar/node/22.7.0/bin:$PATH\"" + System.getenv("PATH"));
         environment.put("ANDROID_HOME", "/Users/kilian.lopez/Library/Android/sdk");
-        environment.put("JAVA_HOME", "$(/usr/libexec/java_home)");
+        //environment.put("JAVA_HOME", "$(/usr/libexec/java_home)");
 
         return AppiumDriverLocalService.buildService(new AppiumServiceBuilder()
                 .usingDriverExecutable(new File("/opt/homebrew/bin/node"))
                 .withAppiumJS(new File("/opt/homebrew/lib/node_modules/appium/build/lib/main.js"))
                 .usingAnyFreePort()
+                .withEnvironment(environment)
                 .withLogFile(new File(params.getPlatformName() + "_" + params.getDeviceName() + File.separator +
                         "Server.log"))
                 .withArgument(GeneralServerFlag.SESSION_OVERRIDE));
