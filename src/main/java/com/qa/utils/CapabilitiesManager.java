@@ -29,6 +29,7 @@ public class CapabilitiesManager {
                     String appUrlRelativePath = props.getProperty("androidAppLocation");
                     String appUrl = System.getProperty("user.dir") + File.separator + "src" + File.separator +
                             "test" + File.separator + "resources" + File.separator + appUrlRelativePath;
+                    utils.log().info(appUrl);
                     UiAutomator2Options optionsAnd = new UiAutomator2Options()
                             .setAppPackage(props.getProperty("androidAppPackage"))
                             .setAppActivity(props.getProperty("androidAppActivity"))
